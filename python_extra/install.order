@@ -2,7 +2,4 @@ backports.ssl_match_hostname-3.4.0.2.tar.gz
 MarkupSafe-0.23.tar.gz
 six-1.9.0.tar.gz
 altgraph-0.12.tar.gz
-colorama-0.3.6.tar.gz
-py-1.4.31.tar.gz
-pytest-2.8.7.tar.gz
 coverage-4.1b2.tar.gz
