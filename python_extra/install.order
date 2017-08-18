@@ -1,5 +1,5 @@
 backports.ssl_match_hostname-3.4.0.2.tar.gz
-MarkupSafe-0.23.tar.gz
+MarkupSafe-1.0.tar.gz
 six-1.10.0.tar.gz
 altgraph-0.12.tar.gz
 coverage-4.1b2.tar.gz
